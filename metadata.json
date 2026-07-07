@@ -1,0 +1,6 @@
+{
+  "name": "Salkyn Tours",
+  "description": "Premium adventure and authentic nomadic eco-tours in Kyrgyzstan, featuring customized itineraries, yurt stays, horse riding, alpine trekking, and smart AI travel guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
